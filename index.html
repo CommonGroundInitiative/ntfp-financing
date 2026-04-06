@@ -20,8 +20,8 @@ code{font-family:'SFMono-Regular',Consolas,monospace}
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 // After setting up Supabase, replace these two values.
 // Leave them as "" to use bundled offline data.
-const SUPABASE_URL  = "https://yczilaexrkpjkaixkmbw.supabase.co/";  // e.g. "https://abcdefgh.supabase.co"
-const SUPABASE_ANON = "sb_publishable_xTsPXRrNg4BTp6B4BG100Q_33Pb4fg3";  // your project anon/public key
+const SUPABASE_URL  = "";  // e.g. "https://abcdefgh.supabase.co"
+const SUPABASE_ANON = "";  // your project anon/public key
 const GITHUB_USER   = "CommonGroundInitiative";
 const GITHUB_REPO   = "ntfp-financing";
 // ─────────────────────────────────────────────────────────────────────────────
@@ -613,21 +613,20 @@ function App() {
         {tab==="contribute"  &&<ContribTab schemes={schemes}/>}
       </>}
     </div>
-     {(tab==="admin"||tab==="dev")&&                                                                                   
-        <div style={{background:"#fff",borderRadius:8,border:"1px solid #e2e8f0",padding:16,marginBottom:20}}>
-          <div style={{display:"flex",gap:8,marginBottom:16,borderBottom:"1px solid #f1f5f9",paddingBottom:10}}>        
-            {UTIL_TABS.map(t=><button key={t.id} onClick={()=>setTab(t.id)} style={{                                    
-              padding:"6px 14px",borderRadius:6,fontSize:12,fontWeight:600,cursor:"pointer",
-              background:tab===t.id?"#166534":"#f8fafc",color:tab===t.id?"#fff":"#6b7280",                              
-              border:"1px solid "+(tab===t.id?"#166534":"#e2e8f0")}}>                                                 
-              {t.label}                                                                                                 
-            </button>)}                                                                                               
-            <button onClick={()=>setTab("browse")} style={{marginLeft:"auto",padding:"6px 12px",borderRadius:6,fontSize:11,cursor:"pointer",background:"transparent",color:"#9ca3af",border:"1px solid          
-  #e2e8f0"}}>← Back to app</button>                                                                                     
-          </div>                                                                                                        
-          {tab==="admin"&&<AdminTab/>}                                                                                  
-          {tab==="dev"&&<DevTab/>}
-          </div>
+    {(tab==="admin"||tab==="dev")&&
+      <div style={{background:"#fff",borderRadius:8,border:"1px solid #e2e8f0",padding:16,marginBottom:20}}>
+        <div style={{display:"flex",gap:8,marginBottom:16,borderBottom:"1px solid #f1f5f9",paddingBottom:10}}>
+          {UTIL_TABS.map(t=><button key={t.id} onClick={()=>setTab(t.id)} style={{
+            padding:"6px 14px",borderRadius:6,fontSize:12,fontWeight:600,cursor:"pointer",
+            background:tab===t.id?"#166534":"#f8fafc",color:tab===t.id?"#fff":"#6b7280",
+            border:"1px solid "+(tab===t.id?"#166534":"#e2e8f0")}}>
+            {t.label}
+          </button>)}
+          <button onClick={()=>setTab("browse")} style={{marginLeft:"auto",padding:"6px 12px",borderRadius:6,fontSize:11,cursor:"pointer",background:"transparent",color:"#9ca3af",border:"1px solid #e2e8f0"}}>← Back to app</button>
+        </div>
+        {tab==="admin"&&<AdminTab/>}
+        {tab==="dev"&&<DevTab/>}
+      </div>}
     <div style={{textAlign:"center",fontSize:11,color:"#9ca3af",paddingBottom:16}}>
       Data sourced from Government of India scheme guidelines. Always verify at official portals. ·{" "}
       <a href={`https://github.com/${GITHUB_USER}/${GITHUB_REPO}`} target="_blank" rel="noopener noreferrer" style={{color:"#6b7280"}}>Open source on GitHub</a>
