@@ -423,7 +423,7 @@ function ContribTab({schemes}) {
         <Txa label="Financing Notes / Details" value={form.act.financingNotes} onChange={v=>setAct("financingNotes",v)} placeholder="Key amounts, conditions, eligibility specifics…" rows={3}/>
         <Inp label="Link to Official Guidelines" value={form.act.link} onChange={v=>setAct("link",v)} placeholder="https://…" type="url"/>
       </div>
-      <Inp label="Your Name / Organisation (optional)" value={form.submittedBy} onChange={v=>set("submittedBy",v)} placeholder="e.g. Dakshin Foundation"/>
+      <Inp label="Your Name / Organisation (optional)" value={form.submittedBy} onChange={v=>set("submittedBy",v)} placeholder="e.g. Living Landscapes"/>
       {err&&<div style={{background:"#fee2e2",borderRadius:8,padding:12,marginBottom:12,fontSize:12,color:"#9b1c1c"}}>{err}</div>}
       <Btn v="primary" type="submit" disabled={st==="submitting"}>{st==="submitting"?"Submitting…":"Submit contribution"}</Btn>
     </form>
@@ -575,6 +575,8 @@ function App() {
     {id:"eligibility",label:"Eligibility Matcher"},
     {id:"compare",label:"Compare",badge:cmpList.length||null},
     {id:"contribute",label:"Contribute"},
+  ];
+  const UTIL_TABS=[
     {id:"admin",label:"Admin"},
     {id:"dev",label:"For Developers"},
   ];
@@ -609,9 +611,23 @@ function App() {
         {tab==="eligibility" &&<EligTab schemes={schemes}/>}
         {tab==="compare"     &&<CmpTab sel={cmpList} onRem={s=>setCmpList(p=>p.filter(c=>c.name!==s.name))}/>}
         {tab==="contribute"  &&<ContribTab schemes={schemes}/>}
-        {tab==="admin"       &&<AdminTab/>}
-        {tab==="dev"         &&<DevTab/>}
       </>}
+    </div>
+     {(tab==="admin"||tab==="dev")&&                                                                                   
+        <div style={{background:"#fff",borderRadius:8,border:"1px solid #e2e8f0",padding:16,marginBottom:20}}>
+          <div style={{display:"flex",gap:8,marginBottom:16,borderBottom:"1px solid #f1f5f9",paddingBottom:10}}>        
+            {UTIL_TABS.map(t=><button key={t.id} onClick={()=>setTab(t.id)} style={{                                    
+              padding:"6px 14px",borderRadius:6,fontSize:12,fontWeight:600,cursor:"pointer",
+              background:tab===t.id?"#166534":"#f8fafc",color:tab===t.id?"#fff":"#6b7280",                              
+              border:"1px solid "+(tab===t.id?"#166534":"#e2e8f0")}}>                                                 
+              {t.label}                                                                                                 
+            </button>)}                                                                                               
+            <button onClick={()=>setTab("browse")} style={{marginLeft:"auto",padding:"6px                               
+  12px",borderRadius:6,fontSize:11,cursor:"pointer",background:"transparent",color:"#9ca3af",border:"1px solid          
+  #e2e8f0"}}>← Back to app</button>                                                                                     
+          </div>                                                                                                        
+          {tab==="admin"&&<AdminTab/>}                                                                                  
+          {tab==="dev"&&<DevTab/>}
     </div>
     <div style={{textAlign:"center",fontSize:11,color:"#9ca3af",paddingBottom:16}}>
       Data sourced from Government of India scheme guidelines. Always verify at official portals. ·{" "}
