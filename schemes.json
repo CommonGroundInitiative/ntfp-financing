@@ -1,0 +1,1066 @@
+[
+  {
+    "schemeNo": "1",
+    "name": "Dharti Abha Janjatiya Gram Utkarsh Abhiyan",
+    "ministry": "Ministry of Tribal Affairs",
+    "fundRecipient": "District Collector",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Gram Panchayat"
+    ],
+    "valueChainActivities": [
+      "Marketing and Branding"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Gram Panchayat",
+        "valueChainActivity": "Marketing and Branding",
+        "financingType": "Grant Assistance",
+        "financingNotes": "For setting up of Tribal Multipurpose Marketing Centre (TMMC) Award of Rs. 20 cr for best tribal performing dist.; Rs. 1 cr per TMMC; 100% Central Govt funded. Total 100 TMMCs in current phase",
+        "link": "https://tribal.cg.gov.in/sites/default/files/pm-juga-guideline.pdf"
+      }
+    ],
+    "links": [
+      "https://tribal.cg.gov.in/sites/default/files/pm-juga-guideline.pdf"
+    ]
+  },
+  {
+    "schemeNo": "2",
+    "name": "Forest Rights Act",
+    "ministry": "Ministry of Tribal Affairs",
+    "fundRecipient": "District Collector",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Gram Panchayat"
+    ],
+    "valueChainActivities": [
+      "Legal and Registration Support"
+    ],
+    "financingTypes": [
+      "Technical Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Gram Panchayat",
+        "valueChainActivity": "Legal and Registration Support",
+        "financingType": "Technical Assistance",
+        "financingNotes": "CFR Plan Preparation; Capacity Building of Govt officials; Rs. 15000 per hectare upto Rs. 15 lakhs for CFR plan implementation",
+        "link": "https://tribal.cg.gov.in/sites/default/files/pm-juga-guideline.pdf"
+      }
+    ],
+    "links": [
+      "https://tribal.cg.gov.in/sites/default/files/pm-juga-guideline.pdf"
+    ]
+  },
+  {
+    "schemeNo": "3",
+    "name": "Term Loan Scheme",
+    "ministry": "National Scheduled Tribe Finance and Development Corporation",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Support for IGA ventures. 90% subloan and 10% moratorium for 5-10 years. Interest for beneficiaries is only 6% upto rs. 5 lakhs per loan, 8% for 5-10 lakhs and 10% for above. Promoter contribution for ventures above Rs. 1 Lakh",
+        "link": "https://nstfdc.tribal.gov.in/(S(sndx0ej5txpdyacusmwsiarg))/frm_term_loan.aspx#:~:text=Term%20loans%20are%20available%20to,unit%20through%20State%20Channelizing%20Agencies."
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Support for IGA ventures. 90% subloan and 10% moratorium for 5-10 years. Interest for beneficiaries is only 6% upto rs. 5 lakhs per loan, 8% for 5-10 lakhs and 10% for above. Promoter contribution for ventures above Rs. 1 Lakh",
+        "link": "https://nstfdc.tribal.gov.in/(S(sndx0ej5txpdyacusmwsiarg))/frm_term_loan.aspx#:~:text=Term%20loans%20are%20available%20to,unit%20through%20State%20Channelizing%20Agencies."
+      }
+    ],
+    "links": [
+      "https://nstfdc.tribal.gov.in/(S(sndx0ej5txpdyacusmwsiarg))/frm_term_loan.aspx#:~:text=Term%20loans%20are%20available%20to,unit%20through%20State%20Channelizing%20Agencies."
+    ]
+  },
+  {
+    "schemeNo": "4",
+    "name": "Adivasi Mahila Sashaktikaran Yojana (AMSY)",
+    "ministry": "National Scheduled Tribe Finance and Development Corporation",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Loan upto Rs. 2 Lakh at 4% interest for individual and 2% for SCA for IGA ventures. Option to waive minimum promoter contribution. Term Loan 1 Lakh",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_amsy.aspx"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Loan upto Rs. 2 Lakh at 4% interest for individual and 2% for SCA for IGA ventures. Option to waive minimum promoter contribution. Term Loan 1 Lakh",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_amsy.aspx"
+      }
+    ],
+    "links": [
+      "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_amsy.aspx"
+    ]
+  },
+  {
+    "schemeNo": "5",
+    "name": "Marketing Support Assistance",
+    "ministry": "National Scheduled Tribe Finance and Development Corporation",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Marketing and Branding"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Marketing and Branding",
+        "financingType": "Loan",
+        "financingNotes": "Working capital loan for IGA at 7% p.a.",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Marketing and Branding",
+        "financingType": "Loan",
+        "financingNotes": "Working capital loan for IGA at 7% p.a.",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+      }
+    ],
+    "links": [
+      "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+    ]
+  },
+  {
+    "schemeNo": "6",
+    "name": "Micro Credit Scheme",
+    "ministry": "National Scheduled Tribe Finance and Development Corporation",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Loan upto ₹ 50,000/- per member and maximum ₹5.00 lakh per SHG. May fund upto 100% of amount. SCA interest rate 3%, beneficiary interest rate at 6%",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Loan upto ₹ 50,000/- per member and maximum ₹5.00 lakh per SHG. May fund upto 100% of amount. SCA interest rate 3%, beneficiary interest rate at 6%",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+      }
+    ],
+    "links": [
+      "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/frm_msa.aspx"
+    ]
+  },
+  {
+    "schemeNo": "7",
+    "name": "Margin Money Support Scheme for ST Entrepreneurs under Stand‐up India Scheme",
+    "ministry": "National Scheduled Tribe Finance and Development Corporation",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Margin Money Loan upto 15% of project cost with variale interest rates",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/UploadData/pdf/Stand_Up_India.pdf"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Margin Money Loan upto 15% of project cost with variale interest rates",
+        "link": "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/UploadData/pdf/Stand_Up_India.pdf"
+      }
+    ],
+    "links": [
+      "https://nstfdc.tribal.gov.in/(S(hfpezj1bn0004lbtbm3wae4b))/UploadData/pdf/Stand_Up_India.pdf"
+    ]
+  },
+  {
+    "schemeNo": "8",
+    "name": "PM Janjatiya Vikas Mission (VDVK)",
+    "ministry": "TRIFED",
+    "fundRecipient": "TRIFED State Implementation Agencies-VDVK",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Gram Panchayat",
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure",
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Grant Assistance",
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Gram Panchayat",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Rs 15 Lakh Grant per VDVK cluster",
+        "link": "https://trifed.tribal.gov.in/pmvdy/guideline"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Working capital loan for VDPE",
+        "link": "https://trifed.tribal.gov.in/pmvdy/guideline"
+      }
+    ],
+    "links": [
+      "https://trifed.tribal.gov.in/pmvdy/guideline"
+    ]
+  },
+  {
+    "schemeNo": "9",
+    "name": "Venture Capital fund for STs",
+    "ministry": "Industrial Finance Corporation of India (IFCI)",
+    "fundRecipient": "VCF-ST",
+    "socioEconomicPreference": "ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Equity Investment",
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Equity Investment",
+        "financingNotes": "Incubation funding upto Rs. 10 Lakh/year for 3 years.",
+        "link": "https://www.scsthub.in/sites/default/files/VCF-ST%20Brochure%20-%20English%20%26%20Hindi.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Financial assistance between Rs. 10 lakh and Rs. 5 Crores via debentures. 30% preference to women entrepreneurs",
+        "link": "https://www.scsthub.in/sites/default/files/VCF-ST%20Brochure%20-%20English%20%26%20Hindi.pdf"
+      }
+    ],
+    "links": [
+      "https://www.scsthub.in/sites/default/files/VCF-ST%20Brochure%20-%20English%20%26%20Hindi.pdf"
+    ]
+  },
+  {
+    "schemeNo": "10",
+    "name": "Rashtriya Krishi Vikash Yojana (RKVY)- RADP",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Agriculture Depts.",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Irrigation Works",
+      "Soil and Plantations",
+      "Capacity Building"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Irrigation Works",
+        "financingType": "Subsidy",
+        "financingNotes": "Input cost subsidy for small irrigation works upto 50% of project cost",
+        "link": "https://agriwelfare.gov.in/sites/default/files/RADP.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Soil and Plantations",
+        "financingType": "Subsidy",
+        "financingNotes": "Input cost subsidy for agro-forestry and boundary plantation upto 50% of project cost based on agro-climtic zones. Max disbursable amount may vary as per activity",
+        "link": "https://agriwelfare.gov.in/sites/default/files/RADP.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Capacity Building",
+        "financingType": "Subsidy",
+        "financingNotes": "Rs. 10,000 per session of 20 participants or more. Rs. 20,000 per session of 50 participants or more",
+        "link": "https://agriwelfare.gov.in/sites/default/files/RADP.pdf"
+      }
+    ],
+    "links": [
+      "https://agriwelfare.gov.in/sites/default/files/RADP.pdf"
+    ]
+  },
+  {
+    "schemeNo": "10",
+    "name": "Rashtriya Krishi Vikash Yojana (RKVY)- RAFTAAR",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "Raftaar- Agri Business Incubator (R-ABI)",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Business Incubator",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure",
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Business Incubator",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Funding grant-in-aid upto Rs. 2.33 crores for R-ABI",
+        "link": "https://agriwelfare.gov.in/Documents/Guidelines/Annexure_IV_Startup_guidelines.pdf"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Seed stage grant-in-aid upto Rs. 25 lakh per R-ABI incubatee",
+        "link": "https://agriwelfare.gov.in/Documents/Guidelines/Annexure_IV_Startup_guidelines.pdf"
+      }
+    ],
+    "links": [
+      "https://agriwelfare.gov.in/Documents/Guidelines/Annexure_IV_Startup_guidelines.pdf"
+    ]
+  },
+  {
+    "schemeNo": "10",
+    "name": "Rashtriya Krishi Vikash Yojana (RKVY)",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Agriculture Depts.",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "District Authority"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "District Authority",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "DPR based grant encompassing soil health, NRM, irrigation, seeds, agri-menchanization etc. Cannot be clubbed with other schemes",
+        "link": "https://agriwelfare.gov.in/sites/default/files/RKVY_Guildlines_%28XII_Plan%29-2014_0.pdf"
+      }
+    ],
+    "links": [
+      "https://agriwelfare.gov.in/sites/default/files/RKVY_Guildlines_%28XII_Plan%29-2014_0.pdf"
+    ]
+  },
+  {
+    "schemeNo": "11",
+    "name": "National Mission for Sustainable Agriculture- PMKSY",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Committees and Gram Panchayats",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Irrigation Works"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Irrigation Works",
+        "financingType": "Subsidy",
+        "financingNotes": "Microirrigation cost subsidy with additional amount for NE and H states",
+        "link": "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf"
+      }
+    ],
+    "links": [
+      "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf"
+    ]
+  },
+  {
+    "schemeNo": "11",
+    "name": "National Mission for Sustainable Agriculture",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Committees and Gram Panchayats",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Climate Adaptation and Mitigation",
+      "Capacity Building"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Climate Adaptation and Mitigation",
+        "financingType": "Subsidy",
+        "financingNotes": "Project based funding driven by State Govts on Climate modelling",
+        "link": "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Capacity Building",
+        "financingType": "Subsidy",
+        "financingNotes": "Training cost per specific activity sanctioned under NMSA",
+        "link": "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf"
+      }
+    ],
+    "links": [
+      "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf"
+    ]
+  },
+  {
+    "schemeNo": "11",
+    "name": "National Mission for Sustainable Agriculture- Agroforestry Sub-Mission",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Committees and Gram Panchayats",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Farmer"
+    ],
+    "valueChainActivities": [
+      "Soil and Plantations"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Farmer",
+        "valueChainActivity": "Soil and Plantations",
+        "financingType": "Subsidy",
+        "financingNotes": "input cost subsidy for nursery development upto 50%",
+        "link": "https://nmsa.dac.gov.in/pdfdoc/Agroforestory_Guidelines_new_English.pdf"
+      }
+    ],
+    "links": [
+      "https://nmsa.dac.gov.in/pdfdoc/Agroforestory_Guidelines_new_English.pdf"
+    ]
+  },
+  {
+    "schemeNo": "11",
+    "name": "National Mission for Sustainable Agriculture- National Bamboo Mission",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "State Committees and Gram Panchayats",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Integrated End to End Value Chain Development"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Integrated End to End Value Chain Development",
+        "financingType": "Loan",
+        "financingNotes": "Credit-linked back-ended subsidy for activities across Bamboo Value Chain including land preparation, nursery, micro-irrigation, marketing, storage and logistics; with extra provision for NE states",
+        "link": "https://megsoil.gov.in/nbm/NBM_Guidelines_New.pdf"
+      }
+    ],
+    "links": [
+      "https://megsoil.gov.in/nbm/NBM_Guidelines_New.pdf"
+    ]
+  },
+  {
+    "schemeNo": "12",
+    "name": "Paramparagat Krishi Vikas Yojana",
+    "ministry": "Ministry of Agriculture and Farmers' Welfare",
+    "fundRecipient": "Individual via Dist. Level Committees led by Collector",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Farmer"
+    ],
+    "valueChainActivities": [
+      "Soil and Plantations"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Farmer",
+        "valueChainActivity": "Soil and Plantations",
+        "financingType": "Subsidy",
+        "financingNotes": "Back-end input cost subsidy on organic soil preparation activities via DBT, directly to farmers",
+        "link": "https://agriwelfare.gov.in/Documents/Revised_PKVY_Guidelines_022-2023_PUB_1FEB2022.pdf"
+      }
+    ],
+    "links": [
+      "https://agriwelfare.gov.in/Documents/Revised_PKVY_Guidelines_022-2023_PUB_1FEB2022.pdf"
+    ]
+  },
+  {
+    "schemeNo": "14",
+    "name": "Prime Ministers Employment Generation Programme (PMEGP)",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "State and District level Khadi and Village Industries Commission (KVIC) units for approval and Lending Institutions for loan sanction",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Credit linked subsidy for manufacturing units (above Rs. 10 lakh) and service sector units (above Rs. 5 lakhs) for employment generation in Khadi and Village Industries, upto 90% of project cost. Covers term loan, working capital and margin money",
+        "link": "https://www.kviconline.gov.in/pmegpeportal/pmegpeportaltutorialdoc/PMEGP%20guidelines_pmegpeportal.pdf"
+      }
+    ],
+    "links": [
+      "https://www.kviconline.gov.in/pmegpeportal/pmegpeportaltutorialdoc/PMEGP%20guidelines_pmegpeportal.pdf"
+    ]
+  },
+  {
+    "schemeNo": "15",
+    "name": "MSME Cluster Development Program",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "SIDBI and other Lenders",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "District Authority"
+    ],
+    "valueChainActivities": [
+      "Integrated Value Chain Infrastructure Development"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "District Authority",
+        "valueChainActivity": "Integrated Value Chain Infrastructure Development",
+        "financingType": "Grant Assistance",
+        "financingNotes": "DPR based funding for setting up common facility centres (CFCs) and industrial units for different components of industrial infrastructure, above Rs. 5 Cr. Preference with credit backed projects",
+        "link": "https://www.dcmsme.gov.in/schemes/New%20MSE-CDP.pdf"
+      }
+    ],
+    "links": [
+      "https://www.dcmsme.gov.in/schemes/New%20MSE-CDP.pdf"
+    ]
+  },
+  {
+    "schemeNo": "16",
+    "name": "Credit Guarantee (CGTMSE)",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "SIDBI and other Lenders",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value Chain Entrepreneurship"
+    ],
+    "financingTypes": [
+      "Loan",
+      "Credit Guarantee"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Loan",
+        "financingNotes": "Working Capital or term loan for distressed MSME units to the extent not funded by other Govt. Schemes with addl provisions for women, SC/ST/OBC borrowers.",
+        "link": "https://www.cgtmse.in/Default/ViewFile/?id=1673390907997_CGTMSE%20-%20Scheme%20Document%20CGS%20I_updated%20as%20on%20Jan%2010,%202023.pdf&path=Page"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value Chain Entrepreneurship",
+        "financingType": "Credit Guarantee",
+        "financingNotes": "Optional credit guarantee upto Rs. 2 cr for distressed MSME units to the extent not funded by other Govt. Schemes with addl provisions for women, SC/ST/OBC borrowers.",
+        "link": "https://www.cgtmse.in/Default/ViewFile/?id=1673390907997_CGTMSE%20-%20Scheme%20Document%20CGS%20I_updated%20as%20on%20Jan%2010,%202023.pdf&path=Page"
+      }
+    ],
+    "links": [
+      "https://www.cgtmse.in/Default/ViewFile/?id=1673390907997_CGTMSE%20-%20Scheme%20Document%20CGS%20I_updated%20as%20on%20Jan%2010,%202023.pdf&path=Page"
+    ]
+  },
+  {
+    "schemeNo": "17",
+    "name": "ASPIRE",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "Mentor Institutions (as notified by MSME Ministry)",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Business Incubator"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance",
+      "Equity Investment"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Business Incubator",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "100% of plant and machinery cost upto Rs. 1 Cr for Govt bodies and 75% upto Rs. 75 Lakh grant support for setting up Livelihood Business Incubators and Mentor Institutions",
+        "link": "https://aspire.msme.gov.in/WriteReadData/DocumentFile/ASPIRE_NEW.pdf"
+      },
+      {
+        "endRecipientType": "Business Incubator",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Equity Investment",
+        "financingNotes": "Venture Capital LP Fund for investment in agri-rural VC or Impact Investing Funds",
+        "link": "https://aspire.msme.gov.in/WriteReadData/DocumentFile/ASPIRE_NEW.pdf"
+      }
+    ],
+    "links": [
+      "https://aspire.msme.gov.in/WriteReadData/DocumentFile/ASPIRE_NEW.pdf"
+    ]
+  },
+  {
+    "schemeNo": "18",
+    "name": "SFURTI",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "KVIC and Coir Board",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)",
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Technical Assistance",
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Technical Assistance",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for Technical Assistance in setting up Khadi, Village and Coir industry clusters under Rs. 5 cr, upto 50% of project cost",
+        "link": "https://sfurti.msme.gov.in/WriteReadData/Circular/SFURTI_NEW.pdf"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Technical Assistance",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for Technical Assistance in setting up Khadi, Village and Coir industry clusters under Rs. 5 cr, upto 50% of project cost",
+        "link": "https://sfurti.msme.gov.in/WriteReadData/Circular/SFURTI_NEW.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for implementing agency for hard/soft interventions in setting up Khadi, Village and Coir industry clusters under Rs. 5 cr, upto 50% of project cost",
+        "link": "https://sfurti.msme.gov.in/WriteReadData/Circular/SFURTI_NEW.pdf"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for implementing agency for hard/soft interventions in setting up Khadi, Village and Coir industry clusters under Rs. 5 cr, upto 50% of project cost",
+        "link": "https://sfurti.msme.gov.in/WriteReadData/Circular/SFURTI_NEW.pdf"
+      }
+    ],
+    "links": [
+      "https://sfurti.msme.gov.in/WriteReadData/Circular/SFURTI_NEW.pdf"
+    ]
+  },
+  {
+    "schemeNo": "19",
+    "name": "National SC/ST Hub Scheme\n(SPECIAL CREDIT LINKED CAPITAL SUBSIDY SCHEME (SCLCSS)",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "SC&ST",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Loan",
+        "financingNotes": "Credit linked subsidy upto Rs. 25 Lakhs (max 25%) or plant and machinery cost for SC/ST MSEs",
+        "link": "https://www.scsthub.in/content/special-credit-linked-capital-subsidy-scheme"
+      }
+    ],
+    "links": [
+      "https://www.scsthub.in/content/special-credit-linked-capital-subsidy-scheme"
+    ]
+  },
+  {
+    "schemeNo": "20",
+    "name": "Khadi Gramudyog Vikas Yojana",
+    "ministry": "Ministry of MSME",
+    "fundRecipient": "KVIC and state units",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Capacity Building"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Capacity Building",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for capacity building for bee keeping and Bamboo, with addl provision for distribution of bee boxes",
+        "link": "https://msme.gov.in/sites/default/files/RevisedoperationalGuidelinesofGVY.pdf"
+      }
+    ],
+    "links": [
+      "https://msme.gov.in/sites/default/files/RevisedoperationalGuidelinesofGVY.pdf"
+    ]
+  },
+  {
+    "schemeNo": "21",
+    "name": "MGNREGA",
+    "ministry": "Ministry of Rural Development",
+    "fundRecipient": "District Programme Officer",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Gram Panchayat"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Gram Panchayat",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Creation of individual assets that lead to sustainable increase in incomes. These works will include animal shed, farm ponds, plantations, vermi/ NADEP composting pits, dug wells, fish drying yard, land development, biogas plant, bamboo plantation, development of Pastureland. Convergence with other Schemes on infra projects",
+        "link": "https://nregaplus.nic.in/netnrega/WriteReaddata/Circulars/AMC_2024-25-English.pdf"
+      }
+    ],
+    "links": [
+      "https://nregaplus.nic.in/netnrega/WriteReaddata/Circulars/AMC_2024-25-English.pdf"
+    ]
+  },
+  {
+    "schemeNo": "22",
+    "name": "DAY- NRLM",
+    "ministry": "Ministry of Rural Development",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure",
+      "Capacity Building"
+    ],
+    "financingTypes": [
+      "Technical Assistance",
+      "Grant Assistance",
+      "Subsidy",
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Technical Assistance",
+        "financingNotes": "Formation of SHGs",
+        "link": "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Revolving Fund (for SHGs with 70% BPL Members) between Rs. 10,000 and Rs. 15,000",
+        "link": "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Subsidy",
+        "financingNotes": "Capital subsidy for both for members of SHGs and individual beneficiaries @Rs. 15,000 per general category and Rs. 20,000 per SC/ST category for BPL SHGs, upto Rs. 2.5 Lakh",
+        "link": "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Capacity Building",
+        "financingType": "Technical Assistance",
+        "financingNotes": "Technical Assistance, grant for sustainability, capacity building and skilling",
+        "link": "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Loan",
+        "financingNotes": "Subsidy on interest rate above 7% per annum for SHG loans availed from banks, upto Rs. 1 lakh cumulative borrowing. Cannot be availed with Capital Subsidy",
+        "link": "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+      }
+    ],
+    "links": [
+      "https://darpg.gov.in/sites/default/files/National%20Rural%20Livilihood%20Mission.pdf"
+    ]
+  },
+  {
+    "schemeNo": "23",
+    "name": "PM Kisan Sampada Yojana",
+    "ministry": "Ministry of Food Processing Industries",
+    "fundRecipient": "MOFPI",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Grant for Mega Food Park upto Rs. 50 cr (max 50% for general and 75% for Hilly and NE states), cold storage upto Rs.10 cr, preservation units upto Rs. 5 cr, backward and forward linkages, agro processing clusters and food safety units excluding cost of land, working capital and margin money",
+        "link": "https://www.mofpi.gov.in/sites/default/files/important_notice-sampada-19.05.2017.pdf"
+      }
+    ],
+    "links": [
+      "https://www.mofpi.gov.in/sites/default/files/important_notice-sampada-19.05.2017.pdf"
+    ]
+  },
+  {
+    "schemeNo": "24",
+    "name": "PM Formalization of Micro Food Processing Enterprises Scheme",
+    "ministry": "Ministry of Food Processing Industries",
+    "fundRecipient": "MOFPI",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Working Capital",
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Grant Assistance"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Working Capital",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Seed grant for ODOP+MFP SHGs upto Rs. 40,000 for working capital",
+        "link": "https://pmfme.mofpi.gov.in/pmfme/newsletters/docs/SchemeGuidelines.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Grant Assistance",
+        "financingNotes": "Credit-linked grant for ODOP + MFP SHGs upto 35% of Capex and Common Infrastructure. Margin Money in convergence with NSTFDC and NSCTFDC schemes",
+        "link": "https://pmfme.mofpi.gov.in/pmfme/newsletters/docs/SchemeGuidelines.pdf"
+      }
+    ],
+    "links": [
+      "https://pmfme.mofpi.gov.in/pmfme/newsletters/docs/SchemeGuidelines.pdf"
+    ]
+  },
+  {
+    "schemeNo": "25",
+    "name": "NEW AGRICULTURAL MARKETING INFRASTRUCTURE(AMI) SUB- SCHEME OF INTEGRATED SCHEME FOR AGRICULTURAL MARKETING (ISAM)",
+    "ministry": "NABARD",
+    "fundRecipient": "Lending Institutions",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Primary Group (SHG/Producer group)"
+    ],
+    "valueChainActivities": [
+      "Marketing and Branding",
+      "Value addition infrastructure",
+      "Storage"
+    ],
+    "financingTypes": [
+      "Subsidy"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Marketing and Branding",
+        "financingType": "Subsidy",
+        "financingNotes": "Back-ended credit linked capital cost subsidy for storage and marketing infrastructure upto 25% or 33.33% based on category.",
+        "link": "https://www.nabard.org/auth/writereaddata/tender/1412180913Cir_283_E%20.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Subsidy",
+        "financingNotes": "Back-ended credit linked capital cost subsidy for storage and marketing infrastructure upto 25% or 33.33% based on category.",
+        "link": "https://www.nabard.org/auth/writereaddata/tender/1412180913Cir_283_E%20.pdf"
+      },
+      {
+        "endRecipientType": "Primary Group (SHG/Producer group)",
+        "valueChainActivity": "Storage",
+        "financingType": "Subsidy",
+        "financingNotes": "Back-ended credit linked capital cost subsidy for storage and marketing infrastructure upto 25% or 33.33% based on category.",
+        "link": "https://www.nabard.org/auth/writereaddata/tender/1412180913Cir_283_E%20.pdf"
+      }
+    ],
+    "links": [
+      "https://www.nabard.org/auth/writereaddata/tender/1412180913Cir_283_E%20.pdf"
+    ]
+  },
+  {
+    "schemeNo": "26",
+    "name": "Stand up India Scheme",
+    "ministry": "SIDBI",
+    "fundRecipient": "District Level Credit Committee under SIDBI",
+    "socioEconomicPreference": "Open to All",
+    "stateCentral": "Central",
+    "endRecipientTypes": [
+      "Individual Entrepreneur/MSME"
+    ],
+    "valueChainActivities": [
+      "Working Capital",
+      "Value addition infrastructure"
+    ],
+    "financingTypes": [
+      "Loan"
+    ],
+    "activities": [
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Working Capital",
+        "financingType": "Loan",
+        "financingNotes": "Composite Loan i.e. to meet requirements of working capital. A Rupay card will be issued to enable operation of the working capital component Loan between 10 lakh to 1 Cr",
+        "link": "https://www.standupmitra.in/Home/SchemeGuidelines"
+      },
+      {
+        "endRecipientType": "Individual Entrepreneur/MSME",
+        "valueChainActivity": "Value addition infrastructure",
+        "financingType": "Loan",
+        "financingNotes": "Composite Loan i.e. to meet requirements of assets such as plant and machinery and shall be repayable in up to 7 years with a moratorium of up to 18 months. Loan between 10 lakh to 1 Cr.",
+        "link": "https://www.standupmitra.in/Home/SchemeGuidelines"
+      }
+    ],
+    "links": [
+      "https://www.standupmitra.in/Home/SchemeGuidelines"
+    ]
+  }
+]
