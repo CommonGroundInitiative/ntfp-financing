@@ -20,8 +20,8 @@ code{font-family:'SFMono-Regular',Consolas,monospace}
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 // After setting up Supabase, replace these two values.
 // Leave them as "" to use bundled offline data.
-const SUPABASE_URL  = "";  // e.g. "https://abcdefgh.supabase.co"
-const SUPABASE_ANON = "";  // your project anon/public key
+const SUPABASE_URL  = "https://yczilaexrkpjkaixkmbw.supabase.co";  // e.g. "https://abcdefgh.supabase.co"
+const SUPABASE_ANON = "sb_publishable_xTsPXRrNg4BTp6B4BG100Q_33Pb4fg3";  // your project anon/public key
 const GITHUB_USER   = "CommonGroundInitiative";
 const GITHUB_REPO   = "ntfp-financing";
 // ─────────────────────────────────────────────────────────────────────────────
@@ -628,8 +628,10 @@ function App() {
         {tab==="dev"&&<DevTab/>}
       </div>}
     <div style={{textAlign:"center",fontSize:11,color:"#9ca3af",paddingBottom:16}}>
-      Data sourced from Government of India scheme guidelines. Always verify at official portals. ·{" "}
-      <a href={`https://github.com/${GITHUB_USER}/${GITHUB_REPO}`} target="_blank" rel="noopener noreferrer" style={{color:"#6b7280"}}>Open source on GitHub</a>
+      Data sourced from Government of India scheme guidelines. Always verify at official portals. ·{" "}                                                                                              
+        <a href={`https://github.com/${GITHUB_USER}/${GITHUB_REPO}`} target="_blank" rel="noopener noreferrer" style={{color:"#6b7280"}}>Open source on GitHub</a>
+        {" · "}<button onClick={()=>setTab("dev")} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,color:"#9ca3af"}}>For Developers</button>                                       
+        {" · "}<button onClick={()=>setTab("admin")} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,color:"#9ca3af"}}>Admin</button>
     </div>
   </div>;
 }
