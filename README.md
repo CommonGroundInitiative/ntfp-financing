@@ -1,6 +1,6 @@
 # NTFP Public Financing — Ready Reckoner
 
-A searchable, filterable database of Government of India financing schemes for Non-Timber Forest Product (NTFP) value chains. Built as an open-source project by [Dakshin Foundation](https://dakshin.org).
+A searchable, filterable database of Government of India financing schemes for Non-Timber Forest Product (NTFP) value chains. Built as an open-source project by [Common Ground Initiative](https://commongroundinitiative.in/).
 
 **Live app:** `https://CommonGroundInitiative.github.io/ntfp-financing/`
 
