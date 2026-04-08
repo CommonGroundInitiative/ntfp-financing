@@ -1,0 +1,78 @@
+{
+  "ministries": [
+    "Industrial Finance Corporation of India (IFCI)",
+    "Ministry of Agriculture and Farmers' Welfare",
+    "Ministry of Food Processing Industries",
+    "Ministry of MSME",
+    "Ministry of Rural Development",
+    "Ministry of Tribal Affairs",
+    "NABARD",
+    "National Scheduled Tribe Finance and Development Corporation",
+    "SIDBI",
+    "TRIFED"
+  ],
+  "socio_economic_preferences": [
+    "Open to All",
+    "SC&ST",
+    "ST"
+  ],
+  "state_central": [
+    "Central"
+  ],
+  "fund_recipients": [
+    "District Collector",
+    "District Level Credit Committee under SIDBI",
+    "District Programme Officer",
+    "Individual via Dist. Level Committees led by Collector",
+    "KVIC and Coir Board",
+    "KVIC and state units",
+    "Lending Institutions",
+    "MOFPI",
+    "Mentor Institutions (as notified by MSME Ministry)",
+    "Raftaar- Agri Business Incubator (R-ABI)",
+    "SIDBI and other Lenders",
+    "State Agriculture Depts.",
+    "State Committees and Gram Panchayats",
+    "State and District level Khadi and Village Industries Commission (KVIC) units for approval and Lending Institutions for loan sanction",
+    "TRIFED State Implementation Agencies-VDVK",
+    "VCF-ST"
+  ],
+  "end_recipient_types": [
+    "Business Incubator",
+    "District Authority",
+    "Farmer",
+    "Gram Panchayat",
+    "Individual Entrepreneur/MSME",
+    "Primary Group (SHG/Producer group)"
+  ],
+  "value_chain_activities": [
+    "Capacity Building",
+    "Climate Adaptation and Mitigation",
+    "Integrated End to End Value Chain Development",
+    "Integrated Value Chain Infrastructure Development",
+    "Irrigation Works",
+    "Legal and Registration Support",
+    "Marketing and Branding",
+    "Soil and Plantations",
+    "Storage",
+    "Technical Assistance",
+    "Value Chain Entrepreneurship",
+    "Value addition infrastructure",
+    "Working Capital"
+  ],
+  "financing_types": [
+    "Credit Guarantee",
+    "Equity Investment",
+    "Grant Assistance",
+    "Loan",
+    "Subsidy",
+    "Technical Assistance"
+  ],
+  "supabase_filter_examples": {
+    "by_ministry": "?status=eq.active&ministry=eq.TRIFED",
+    "by_preference": "?status=eq.active&socio_economic_preference=eq.ST",
+    "by_state_central": "?status=eq.active&state_central=eq.Central",
+    "activities_by_type": "/scheme_activities?financing_type=eq.Grant+Assistance",
+    "activities_by_activity": "/scheme_activities?value_chain_activity=eq.Marketing+and+Branding"
+  }
+}
