@@ -130,10 +130,24 @@ def main():
     schemes = build_schemes(rows)
 
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(schemes, f, ensure_ascii=False, indent=2)
+      with open(JSON_PATH, "w", encoding="utf-8") as f:
+          json.dump(schemes, f, ensure_ascii=False, indent=2)
+      print(f"✓ Wrote {len(schemes)} schemes to {JSON_PATH}")
 
-    print(f"✓ Wrote {len(schemes)} schemes to {JSON_PATH}")
+      # Generate meta.json — valid filter values for API callers
+      meta = {
+          "ministries":                sorted(set(s["ministry"] for s in schemes)),
+          "socio_economic_preferences": sorted(set(s["socioEconomicPreference"] for s in schemes)),
+          "state_central":             sorted(set(s["stateCentral"] for s in schemes)),
+          "fund_recipients":           sorted(set(s["fundRecipient"] for s in schemes)),
+          "end_recipient_types":       sorted(set(a["endRecipientType"] for s in schemes for a in s["activities"] if a.get("endRecipientType"))),
+          "value_chain_activities":    sorted(set(a["valueChainActivity"] for s in schemes for a in s["activities"] if a.get("valueChainActivity"))),
+          "financing_types":           sorted(set(a["financingType"] for s in schemes for a in s["activities"] if a.get("financingType"))),
+      }
+      meta_path = JSON_PATH.parent / "meta.json"
+      with open(meta_path, "w", encoding="utf-8") as f:
+          json.dump(meta, f, ensure_ascii=False, indent=2)
+      print(f"✓ Wrote meta.json")
 
 
 if __name__ == "__main__":
