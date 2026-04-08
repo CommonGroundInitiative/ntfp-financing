@@ -43,6 +43,11 @@ GET https://raw.githubusercontent.com/CommonGroundInitiative/ntfp-financing/main
 
 This is the full dataset as a JSON array. Updated automatically when the Excel file changes.
 
+**Discover valid filter values:**
+GET https://raw.githubusercontent.com/CommonGroundInitiative/ntfp-financing/main/data/meta.json
+Returns all valid values for every filterable field (ministries, financing types, activities, preferences, recipient
+types). Call this once to know what parameters to pass.
+
 **Example — fetch in JavaScript:**
 ```js
 const res  = await fetch("https://raw.githubusercontent.com/CommonGroundInitiative/ntfp-financing/main/data/schemes.json");
@@ -69,7 +74,9 @@ Base URL: `https://<project>.supabase.co/rest/v1/`
 apikey: <your-anon-public-key>
 ```
 
-#### Get all active schemes
+Tip: Before filtering, fetch `data/meta.json` (above) to see all valid values for each field.
+
+  #### Get all active scheme
 ```bash
 curl "https://<project>.supabase.co/rest/v1/schemes?status=eq.active" \
   -H "apikey: <anon-key>"
@@ -81,11 +88,15 @@ curl "https://<project>.supabase.co/rest/v1/schemes?status=eq.active&socio_econo
   -H "apikey: <anon-key>"
 ```
 
-#### Get schemes with all their activities (nested)
+#### Get schemes with all their financing activities (nested)
 ```bash
 curl "https://<project>.supabase.co/rest/v1/schemes?status=eq.active&select=*,scheme_activities(*)" \
   -H "apikey: <anon-key>"
 ```
+> **Why join activities?** 
+Financing details (amounts, conditions, type) live in a separate `scheme_activities` table. Without the join you only get top-level scheme fields. Most callers will want to include
+  `select=*,scheme_activities(*)`.
+
 
 #### Example — fetch in JavaScript
 ```js
